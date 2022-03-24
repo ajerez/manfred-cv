@@ -1,0 +1,54 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alberto",
+      "surnames": "Jerez López",
+      "title": "Senior FrontEnd Developer",
+      "description": "Llevo más de 10 años de experiencia como desarrollador Front-End.\n\nDesarrollo proyectos FrontEnd enfocándome tanto en la arquitectura interna como en la interfaz y la experiencia de usuario. \n\nTécnicamente estoy especializado en Vue.js y en la ejecución de proyectos con una alta carga de lógica de negocio como CMS, y herramientas de gestión para empresas con producto propio.\n\nHe creado varias librerías open-source con componentes visuales para Vue.js y a lo largo de los años he perfeccionado el gusto por la atención al detalle y la transformación de un prototipo o un diseño en un proyecto funcional y listo para su uso.\n",
+      "location": {
+        "notes": "Madrid, España"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/albertojerez/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/ajerez"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/alberto_jrz"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/albertojerez/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
