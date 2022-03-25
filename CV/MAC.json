@@ -33,6 +33,73 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Stay App",
+          "image": {
+            "alt": "stay-logo.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/13e45749-c209-44fd-bcd1-5a739d423d8a_stay-logo.svg"
+          },
+          "URL": "https://www.stay-app.com/"
+        },
+        "roles": [
+          {
+            "name": "Senior FrontEnd Developer",
+            "startDate": "2015-10-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Webpack",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Less CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Heroku",
+                "type": "technology"
+              },
+              {
+                "name": "Vuex",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
