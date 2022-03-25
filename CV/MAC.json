@@ -37,6 +37,54 @@
     "jobs": [
       {
         "organization": {
+          "name": "Quality Telecom S.L.",
+          "image": {
+            "alt": "1519887082738.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/761b35e1-64c7-400b-9403-22688bf1f410_1519887082738.jpeg"
+          },
+          "URL": "https://qualitytelecom.es/"
+        },
+        "roles": [
+          {
+            "name": "FrontEnd Developer",
+            "startDate": "2010-03-01",
+            "finishDate": "2015-10-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Backbone",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Stay App",
           "image": {
             "alt": "stay-logo.svg",
