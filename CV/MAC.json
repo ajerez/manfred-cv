@@ -20,21 +20,79 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/albertojerez/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/ajerez"
       },
       {
         "type": "twitter",
         "URL": "https://twitter.com/alberto_jrz"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/albertojerez/"
       }
     ]
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "Stay App",
+          "image": {
+            "alt": "stay-logo.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/13e45749-c209-44fd-bcd1-5a739d423d8a_stay-logo.svg"
+          },
+          "URL": "https://www.stay-app.com/"
+        },
+        "roles": [
+          {
+            "name": "Senior Frontend Developer",
+            "startDate": "2015-10-01",
+            "competences": [
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Heroku",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Less CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "Vuex",
+                "type": "technology"
+              },
+              {
+                "name": "Webpack",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "Quality Telecom S.L.",
@@ -49,22 +107,9 @@
             "name": "FrontEnd Developer",
             "startDate": "2010-03-01",
             "finishDate": "2015-10-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
+                "name": "Backbone",
                 "type": "technology"
               },
               {
@@ -76,75 +121,80 @@
                 "type": "technology"
               },
               {
-                "name": "Backbone",
+                "name": "HTML",
                 "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Stay App",
-          "image": {
-            "alt": "stay-logo.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/13e45749-c209-44fd-bcd1-5a739d423d8a_stay-logo.svg"
-          },
-          "URL": "https://www.stay-app.com/"
-        },
-        "roles": [
-          {
-            "name": "Senior FrontEnd Developer",
-            "startDate": "2015-10-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
-            "competences": [
+              },
               {
                 "name": "JavaScript",
                 "type": "technology"
               },
               {
-                "name": "Vue",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "Webpack",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Less CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Heroku",
-                "type": "technology"
-              },
-              {
-                "name": "Vuex",
+                "name": "PHP",
                 "type": "technology"
               }
             ]
           }
         ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NPM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vuex",
+          "type": "technology"
+        }
       }
     ]
   },
@@ -160,11 +210,11 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Vue",
+          "name": "JavaScript",
           "type": "technology"
         },
         {
-          "name": "JavaScript",
+          "name": "Vue",
           "type": "technology"
         }
       ]
